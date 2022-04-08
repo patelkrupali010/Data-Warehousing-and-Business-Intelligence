@@ -1,0 +1,6 @@
+FacultyID,FirstName,LastName,DOB,Gender,EmailId,PhoneNo,isActive,DeptID
+,Richard,Sherman,7,M,Sherman.Richard@northeastern.edu,7778888999,Active,1
+,Naveen,Kuragayalaya,8,M,Kuragayalaya.Naveen@northeastern.edu,8847558978,Inactive,1
+,Khaleed,Bugrara,9,M,Bugrara.Khaleed@northeastern.edu,5587894565,Active,1
+,Nicholas,Brown,10,M,Brown.Nicholas@northeastern.edu,3565895445,Active,1
+,Melissa,Degrandis,11,F,Degrandis.Melissa@northeastern.edu,2445485889,Inactive,2

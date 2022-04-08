@@ -1,0 +1,9 @@
+Section ID,CourseID,CourseEnrollmentID,SectionName,SectionNumber,RoomNo,Building
+,1,1,AED01,1,301,snell209
+,1,1,AED02,2,357,shillman253
+,1,1,AED03,3,427,shillman253
+,2,1,DDABI01,1,225,khoury bld
+,2,1,DDABI02,2,24,bvld 1
+,3,2,DMDD01,1,96,coe engg 3
+,3,2,DMDD02,2,58,coe engg 3
+,3,2,DMDD03,3,36,coe engg 2

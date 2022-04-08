@@ -1,0 +1,7 @@
+CourseID,CourseEnrollmentID,SemesterID,FacultyID,ProgramID,CourseCode,CourseName,CRNCode,CreditHours,Prerequisite,isCoreCourse,Lab,CampusName
+,1,1,4,1,INFO5100,Application Engineering Development,1000,4,NO,Yes,Yes,Boston
+,1,1,1,2,DAMG7370,Data Warehouse and Business Intelligence,10001,4,Data Management and Data Design,Yes,Yes,Boston
+,2,2,2,2,DAMG6210,Data Management and Data Design,19002,4,NO,No,Yes,Boston
+,2,3,5,1,INFO6105,Data Science Engineering Methods and Tools,28003,4,Data Management and Data Design,No,NO,Boston
+,1,1,5,1,INFO6222,Program Structure and Algorithms,37004,4,Application Engineering Development,No,NO,Boston
+,2,1,6,1,INFO6215,Business Analysis and Information Engineering,46005,4,NO,No,NO,Boston
